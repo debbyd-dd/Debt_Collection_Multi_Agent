@@ -50,12 +50,12 @@ collection_intents = ["willing to pay", "financial hardship", "disputing debt", 
 
 # --- WEB UI FRONTEND ---
 st.title("🤖 Multi-Model AI Agent: Debt Recovery Demo")
-st.markdown("""
-This dashboard demonstrates a multi-agent AI approach. 
-* **Model 1 (Machine Learning):** Predicts Propensity to Pay (PTP) based on financial metrics.
-* **Model 2 (Deep Learning):** Analyzes unstructured text to determine the debtor's intent.
-* **Decision Engine:** Combines both outputs to recommend an automated action.
-""")
+#st.markdown("""
+#This dashboard demonstrates a multi-agent AI approach. 
+#* **Model 1 (Machine Learning):** Predicts Propensity to Pay (PTP) based on financial metrics.
+#* **Model 2 (Deep Learning):** Analyzes unstructured text to determine the debtor's intent.
+#* **Decision Engine:** Combines both outputs to recommend an automated action.
+#""")
 
 st.divider()
 
