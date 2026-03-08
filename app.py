@@ -49,7 +49,8 @@ ptp_model, scaler = train_ml_model()
 collection_intents = ["willing to pay", "financial hardship", "disputing debt", "refusal to pay", "requesting more info"]
 
 # --- WEB UI FRONTEND ---
-st.title("🤖 Multi-Model AI Agent: Debt Recovery Demo")
+#st.title("🤖 Multi-Model AI Agent: Debt Recovery Demo")
+st.title("🤖 Debt Recovery App")
 #st.markdown("""
 #This dashboard demonstrates a multi-agent AI approach. 
 #* **Model 1 (Machine Learning):** Predicts Propensity to Pay (PTP) based on financial metrics.
